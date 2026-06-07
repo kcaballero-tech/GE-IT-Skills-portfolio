@@ -16,8 +16,6 @@ I am currently pursuing a degree in Finance and continuously exploring ways to c
 
 ### Project 1: Personal Branding Design
 
-![Personal Branding Design](images/personal-branding.png)
-
 **Reflection:**
 
 This design was created to establish a strong personal identity that reflects my values and aspirations. I used a clean layout and professional visual elements to communicate credibility, ambition, and personal growth while maintaining a simple and approachable appearance.
@@ -26,8 +24,6 @@ This design was created to establish a strong personal identity that reflects my
 
 ### Project 2: Financial Literacy Infographic
 
-![Financial Literacy Infographic](images/financial-literacy-infographic.png)
-
 **Reflection:**
 
 The infographic was designed to make financial concepts easier to understand for young adults. I focused on visual hierarchy, concise content, and relevant icons to improve readability and help viewers quickly grasp important financial information.
@@ -35,8 +31,6 @@ The infographic was designed to make financial concepts easier to understand for
 ---
 
 ### Project 3: Canva Creative Output
-
-![Creative Design](images/creative-design.png)
 
 **Reflection:**
 

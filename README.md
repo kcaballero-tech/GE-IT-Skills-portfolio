@@ -391,6 +391,7 @@ This prompt engineering framework and all associated documentation are submitted
 *DigiBayad Davao — Prompt Engineering Portfolio | Davao Region, Mindanao, Philippines*
 *Padayon ang Davao. Padayon ang digital.*
 
+<img width="1254" height="1254" alt="ChatGPT Image Jun 22, 2026, 02_32_14 PM" src="https://github.com/user-attachments/assets/43ff3bd2-56e2-477b-aabf-f03c014e0ea6" />
 
 
 

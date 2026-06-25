@@ -816,6 +816,9 @@ Key annotations:
   - 2020–2021: "Pandemic acceleration phase"
   - 2023–2025: "Structural barrier zone — remaining 32% undigitized"
 ```
+<img width="410" height="911" alt="unnamed" src="https://github.com/user-attachments/assets/cf9471d8-ea4e-44bf-b478-7fd2fa62fdf5" />
+<img width="410" height="911" alt="unnamed (1)" src="https://github.com/user-attachments/assets/e91f375d-b336-4f82-8e49-34bf0ce6d666" />
+
 
 ---
 

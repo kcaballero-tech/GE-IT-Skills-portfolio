@@ -1,4 +1,4 @@
-# Kent A. Caballero
+# Kent Claude Caballero
 ### AI-Assisted Finance & Analytics Portfolio
 
 > *"Where regional data meets rigorous analysis — building financial intelligence from the ground up."*

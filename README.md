@@ -1,3 +1,174 @@
+# Kent A. Caballero
+### AI-Assisted Finance & Analytics Portfolio
+
+> *"Where regional data meets rigorous analysis — building financial intelligence from the ground up."*
+
+[![Finance](https://img.shields.io/badge/Domain-Finance%20%26%20FinTech-1a6b3a?style=flat-square)](https://github.com)
+[![Analytics](https://img.shields.io/badge/Skill-Data%20Analytics-2563eb?style=flat-square)](https://github.com)
+[![AI](https://img.shields.io/badge/Tools-AI%20%7C%20Prompt%20Engineering-7c3aed?style=flat-square)](https://github.com)
+[![Region](https://img.shields.io/badge/Focus-Mindanao%20%7C%20Region%20XI-d97706?style=flat-square)](https://github.com)
+
+---
+
+## About Me
+
+I am a Finance student with a focused interest in the intersection of financial technology, data-driven decision-making, and inclusive regional development. My academic and project work centers on applying AI tools responsibly — not as a replacement for critical thinking, but as an accelerant for it.
+
+My work is grounded in the realities of Mindanao and the Davao Region: the digital payment behaviors of MSMEs, the gaps in financial inclusion at the barangay level, and the role that well-designed, locally-aware analytics can play in informing policy and practice. I approach every dataset and every prompt with the same question: *does this output actually reflect the people and places it claims to represent?*
+
+This portfolio documents three applied projects completed as part of my exploration of AI-assisted finance and analytics — each one designed to demonstrate not just technical skill, but the human judgment that makes those skills meaningful.
+
+---
+
+## Portfolio Overview
+
+This repository serves as a structured showcase of applied skills in **prompt engineering**, **research verification**, and **data analytics**, with a consistent regional lens on Davao City and Mindanao. Each project was designed to answer a practical question:
+
+- Can AI generate contextually accurate, hyper-localized outputs — or does it default to generic, Manila-centric assumptions?
+- How should a responsible analyst audit AI-generated research before relying on it?
+- What does a clean, policy-relevant data workflow look like when AI handles preprocessing and humans handle interpretation?
+
+Together, these projects demonstrate a portfolio built around **responsible AI usage**, **financial inclusion**, and **evidence-based regional analysis**.
+
+---
+
+## Featured Projects
+
+---
+
+### 01 — Mindanao Prompt Engineering System
+
+**Designing localized AI prompt frameworks for Davao and Mindanao development initiatives**
+
+![Prompt Engineering Preview](images/prompt-engineering.png)
+
+The default outputs of general-purpose AI models are rarely calibrated for the linguistic, cultural, and institutional realities of Mindanao. This project addresses that gap directly. Through iterative prompt design — progressing from generic V1 drafts to a fully-specified V3 system prompt — I built a framework capable of generating outputs that reflect actual Davao market zones, code-switched Bisaya-Filipino-English registers, and named local institutions such as DTI-XI, Negosyo Centers, and BACOD.
+
+**Key Skills Demonstrated**
+- Prompt Engineering (V1 → V3 iteration methodology)
+- AI Workflow Design & Constraint Specification
+- Hyper-localization for Regional Development Contexts
+- Bisaya / Filipino / English Code-Switching
+- Human Oversight Framework Design
+
+**Reflection**
+
+This project was designed iteratively because localization cannot be assumed — it must be tested and forced through progressively tighter constraints. AI contributed speed and baseline structure, generating draft frameworks that would have taken hours to scaffold manually. But human judgment was essential to identifying what was wrong with early outputs: the V1 and V2 prompts produced results that *looked* localized but substituted Manila-centric assumptions for genuine Davao-specific knowledge. The most important lesson was that hyper-localization is not a style choice — it is a validity requirement when the intended audience is a specific community.
+
+---
+
+### 02 — Literature Verification & Hallucination Audit
+
+**Auditing AI-generated literature reviews on e-wallet adoption in Davao City**
+
+![Literature Audit Preview](images/literature-audit.png)
+
+AI-generated literature reviews fail in predictable patterns: fabricated citations, invented statistics, and structural bias toward Metro Manila as a default reference point. This project operationalizes hallucination detection as a professional competency — not just a cautionary footnote. I designed a deliberate audit methodology that classifies AI errors into three distinct categories, seeds a test document with controlled inaccuracies, and documents a structured verification protocol aligned with BSP Financial Inclusion Survey sources and credible academic databases.
+
+**Key Skills Demonstrated**
+- Hallucination Detection & Classification
+- Research Validation Against Primary Sources
+- Academic Integrity Methodology
+- Critical Reading of AI-Generated Text
+- Structured Fact-Checking Protocols
+
+**Reflection**
+
+The project was structured around a seeded error matrix because passive reading of AI output is insufficient as a verification strategy — analysts need a systematic protocol, not just skepticism. AI contributed the ability to generate realistic-sounding but verifiable research text quickly, which made it possible to study failure modes at scale without waiting for errors to appear organically. Human judgment was indispensable at the classification stage: distinguishing a *fabricated citation* from a *misattributed statistic* from a *structural bias toward national rather than regional data* requires domain knowledge that no current AI system reliably supplies. The core takeaway is that hallucination auditing is itself an analytical skill — one that belongs in any serious data or research workflow.
+
+---
+
+### 03 — AI-Assisted Data Analytics & Visual Report
+
+**Cleaning datasets, generating charts, and interpreting e-wallet adoption trends in Davao City**
+
+![Data Analytics Preview](images/data-analytics.png)
+
+This project builds a complete, reproducible data analytics workflow applied to e-wallet adoption patterns across Davao City's market zones. Starting from a mock CSV dataset with documented quality issues, I designed a structured AI-assisted cleaning protocol — logging each transformation decision alongside its human oversight flag. The resulting dashboard surfaces dual-axis visualizations of adoption trends and platform preferences, and closes with five policy recommendations grounded in the data, including a Barangay DigiSugo peer-trust model for last-mile financial inclusion.
+
+**Key Skills Demonstrated**
+- Dataset Quality Assessment & Structured Cleaning
+- AI-Assisted Data Transformation with Human Oversight Logging
+- Data Visualization (Dual-Axis Charts, Trend Analysis)
+- Policy-Oriented Interpretation of Analytics Outputs
+- Financial Inclusion Strategy at the Barangay Level
+
+**Reflection**
+
+The workflow was designed with explicit human oversight flags because the cleaning stage of any dataset is where analytical bias is most often introduced invisibly — and AI tools, left unchecked, will make plausible-sounding decisions that may not be appropriate for the specific population being studied. AI contributed meaningfully to the preprocessing speed and chart generation, compressing what would be multi-hour tasks into structured prompts with auditable outputs. Human judgment drove the interpretation layer entirely: the five policy recommendations required knowledge of Davao's institutional landscape, MSME behavior, and the cultural dynamics of digital payment adoption that no model can reliably supply from general training data. The lesson is that AI-assisted analytics is most powerful when the human analyst owns the question and the conclusion, and delegates only the mechanical labor in between.
+
+---
+
+## Technical Skills Developed
+
+### AI & Research
+- Prompt Engineering (iterative V1 → V3 methodology)
+- Literature Verification & Hallucination Auditing
+- AI Output Quality Assessment
+- Human Oversight Framework Design
+- Constraint-Based Prompt Specification
+
+### Data Analytics
+- Dataset Quality Assessment & Cleaning
+- Data Visualization & Dashboard Design
+- Trend Analysis & Pattern Recognition
+- Policy-Oriented Analytical Interpretation
+- Reproducible Workflow Documentation
+
+### Finance & Development
+- Financial Inclusion Strategy
+- Digital Payments Ecosystem Analysis (GCash, Maya, QR Ph)
+- MSME Market Behavior & Segmentation
+- Regional Development Policy Analysis
+- BSP Regulatory Framework Awareness
+
+### Tools & Platforms
+| Category | Tools |
+|---|---|
+| AI Platforms | Claude, ChatGPT |
+| Data & Visualization | Python, Excel, Power BI |
+| Documentation | GitHub, Markdown |
+| Domain References | BSP DPTR, BSP Financial Inclusion Survey, DTI-XI |
+
+---
+
+## Key Takeaways
+
+These three projects share a common design philosophy: **AI should be treated as a capable but imperfect collaborator, not an autonomous authority.**
+
+Each project was structured to make that boundary explicit. Prompt engineering without iteration produces outputs that sound local but aren't. Literature reviews without verification produce citations that look credible but don't exist. Data analytics without oversight logs produce cleaned datasets whose transformation logic is invisible and therefore unauditable.
+
+What this portfolio demonstrates is not fluency with AI tools — that is a threshold skill, not a differentiator. What it demonstrates is the analytical discipline to deploy those tools within structured accountability frameworks: version-controlled prompts, seeded error matrices, and human oversight logs. That discipline is what makes AI-assisted work defensible in professional and policy contexts — and it is the competency this portfolio was built to evidence.
+
+---
+
+## Future Learning Goals
+
+- **Financial Technology & Digital Payments:** Deepen technical understanding of QR Ph infrastructure, BSP open finance frameworks, and interoperability standards driving the Philippine digital payments transformation roadmap.
+- **Advanced Data Analytics:** Develop proficiency in Python-based statistical modeling and geospatial visualization to support barangay-level disaggregation of financial inclusion data across Mindanao.
+- **AI-Assisted Research Methodology:** Explore retrieval-augmented generation (RAG) as a tool for grounding AI outputs in verified, domain-specific source documents — reducing hallucination risk in research contexts.
+- **Regional Economic Development:** Build analytical frameworks for measuring the downstream welfare effects of digital financial inclusion on Mindanao MSMEs, with particular attention to women-led enterprises and rural value chains.
+- **Policy Communication:** Develop skills in translating complex analytics outputs into accessible policy briefs for LGU technical working groups, NEDA Regional Office, and development finance institutions operating in Region XI.
+
+---
+
+## Connect
+
+I am actively seeking internship opportunities and research collaborations at the intersection of finance, data analytics, and regional development. I am particularly interested in roles within FinTech, development finance, government digital services, and applied AI research in the Philippine context.
+
+**Open to:** Internships · Research Collaborations · Portfolio Feedback · Regional Development Projects
+
+---
+
+<div align="center">
+
+*Built with rigorous curiosity. Grounded in the Davao Region.*
+
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo?style=flat-square&color=1a6b3a)
+
+</div>
+
+
 # Prompt Engineering
 
 # 💳 DigiBayad Davao: AI-Powered Communication Framework for MSME Digital Payment Adoption in Davao City
